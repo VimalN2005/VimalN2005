@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Vimal</h1>
+ <h1 align="center">Hi , I'm Vimal sahani</h1>
 <h3 align="center">SDE | Backend & Full-Stack Developer | AI/ML & GenAI Engineer</h3>
 
 <p align="center">
@@ -17,7 +17,6 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -26,7 +25,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -57,13 +55,13 @@
 |---|---|---|---|
 | 1 | 🧠 **RAG Document Assistant** | FastAPI, FAISS, LangChain, Groq LLaMA3 | Session-based RAG pipeline, deployed on Render + Vercel |
 | 2 | 📖 **AI Storyteller Machine** | LangChain, Groq, Streamlit | Generates stories with TTS narration & AI-generated images |
-| 3 | 🛒 **Intelligent E-commerce Platform** | Django, FAISS, Groq, Node.js | Semantic product search + AI chatbot + real-time stock updates |
-| 4 | 😃 **Face Emotion Recognition** | TensorFlow, CNN | Real-time 4-block CNN on FER-2013, 82% accuracy |
-| 5 | 📄 **AI Resume Analyzer** | Django, spaCy, TF-IDF | ATS-style resume scoring & keyword matching engine |
-| 6 | 🏠 **House Price Prediction** | XGBoost, Random Forest | Ensemble regression model, 88% R² accuracy |
-| 7 | 💊 **MediMind** | FastAPI, Groq | AI health assistant chatbot, built for DevNetwork hackathon |
-| 8 | ✅ **Node.js Task Manager** | Node.js, Express, Jest, Supertest | REST API with full test coverage, hiring assignment project |
-| 9 | 💬 **Financial Data Chatbot** | Flask, Pandas, SEC EDGAR API | Conversational chatbot for analyzing 10-K filings (Microsoft, Tesla, Apple) with Excel/pandas data loading |
+| 3 | 💬 **Financial Data Chatbot** | Flask, Pandas, SEC EDGAR API | Conversational chatbot for analyzing 10-K filings (Microsoft, Tesla, Apple) with Excel/pandas data loading|          | 4 | 🛒 **Intelligent E-commerce Platform** | Django, FAISS, Groq, Node.js | Semantic product search + AI chatbot + real-time stock updates |
+| 5 | 😃 **Face Emotion Recognition** | TensorFlow, CNN | Real-time 4-block CNN on FER-2013, 82% accuracy |
+| 6 | 📄 **AI Resume Analyzer** | Django, spaCy, TF-IDF | ATS-style resume scoring & keyword matching engine |
+| 7 | 🏠 **House Price Prediction** | XGBoost, Random Forest | Ensemble regression model, 88% R² accuracy |
+| 8 | 💊 **MediMind** | FastAPI, Groq | AI health assistant chatbot, built for DevNetwork hackathon |
+| 9 | ✅ **Node.js Task Manager** | Node.js, Express, Jest, Supertest | REST API with full test coverage, hiring assignment project |
+ 
 
 ---
 
