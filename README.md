@@ -1,34 +1,35 @@
-<h1 align="center">Hi 👋, I'm Vimal</h1>
-<h3 align="center">AI/ML Enthusiast | Full-Stack Developer | B.Tech IT @ IIIT Bhopal</h3>
+ <h1 align="center">Hi 👋, I'm Vimal</h1>
+<h3 align="center">SDE | Backend & Full-Stack Developer | AI/ML & GenAI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VimalN2005&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/VimalN2005?label=Follow&style=social" alt="followers" />
 </p>
 
----
-
-### 🚀 About Me
-
-- 🎓 B.Tech in Information Technology @ **IIIT Bhopal** (Batch 2023–2027)
-- 🤖 Passionate about **GenAI, RAG pipelines, and LLM-powered applications**
-- 🔭 Currently building and shipping full-stack AI applications
-- 🌱 Constantly exploring new tools in the LangChain / Groq / FAISS ecosystem
-- ⚡ Actively practicing DSA & competitive programming for placements
-- 📫 Reach me on [LinkedIn](#) 
+<p align="center">
+🎓 B.Tech IT, IIIT Bhopal (2023–2027) &nbsp;|&nbsp; 🧠 Building production-grade RAG/LLM systems &amp; scalable backends &nbsp;|&nbsp; 💻 Django · FastAPI · React · LangChain
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & Full-Stack**
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **AI / ML / GenAI**
 
@@ -36,26 +37,33 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
-**Databases & Tools**
+**Databases, DevOps & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Top Projects
 
-| Project | Description |
-|---|---|
-| 🧠 **[RAG Document Assistant](https://github.com/VimalN2005)** | FastAPI + FAISS + LangChain + Groq LLaMA3 — session-based RAG pipeline, deployed on Render/Vercel |
-| 📖 **[AI Storyteller Machine](https://github.com/VimalN2005)** | LangChain + Groq + Streamlit, with TTS and AI image generation |
-| 😃 **[Face Emotion Recognition CNN](https://github.com/VimalN2005)** | 4-block CNN on FER-2013 dataset, 82% accuracy |
-| 📄 **[Resume Analyzer](https://github.com/VimalN2005)** | Django + spaCy + TF-IDF based ATS resume scoring |
-| 🏠 **[House Price Prediction](https://github.com/VimalN2005)** | XGBoost + Random Forest ensemble, 88% R² |
-| 🛒 **Intelligent E-commerce Platform** | Django + FAISS semantic search + Groq chatbot + Node.js real-time stock updates |
+| # | Project | Stack | Highlight |
+|---|---|---|---|
+| 1 | 🧠 **RAG Document Assistant** | FastAPI, FAISS, LangChain, Groq LLaMA3 | Session-based RAG pipeline, deployed on Render + Vercel |
+| 2 | 📖 **AI Storyteller Machine** | LangChain, Groq, Streamlit | Generates stories with TTS narration & AI-generated images |
+| 3 | 🛒 **Intelligent E-commerce Platform** | Django, FAISS, Groq, Node.js | Semantic product search + AI chatbot + real-time stock updates |
+| 4 | 😃 **Face Emotion Recognition** | TensorFlow, CNN | Real-time 4-block CNN on FER-2013, 82% accuracy |
+| 5 | 📄 **AI Resume Analyzer** | Django, spaCy, TF-IDF | ATS-style resume scoring & keyword matching engine |
+| 6 | 🏠 **House Price Prediction** | XGBoost, Random Forest | Ensemble regression model, 88% R² accuracy |
+| 7 | 💊 **MediMind** | FastAPI, Groq | AI health assistant chatbot, built for DevNetwork hackathon |
+| 8 | ✅ **Node.js Task Manager** | Node.js, Express, Jest, Supertest | REST API with full test coverage, hiring assignment project |
+| 9 | 💬 **Financial Data Chatbot** | Flask, Pandas, SEC EDGAR API | Conversational chatbot for analyzing 10-K filings (Microsoft, Tesla, Apple) with Excel/pandas data loading |
 
 ---
 
@@ -72,4 +80,4 @@
 
 ---
 
-<p align="center"><i>⭐️ Feel free to explore my repos and connect with me!</i></p>
+<p align="center"><i>⭐️ Open to SDE, Backend, Full-Stack, and AI/ML/GenAI opportunities — let's connect!</i></p>
