@@ -12,7 +12,6 @@
 
 - 🎓 B.Tech in Information Technology @ **IIIT Bhopal** (Batch 2023–2027)
 - 🤖 Passionate about **GenAI, RAG pipelines, and LLM-powered applications**
-- 💼 Interned at **Grownited Pvt Ltd** (Python & Django — VehicleVault) and **Suvidha Foundation** (NLP/ML — BERT, T5, Hugging Face)
 - 🔭 Currently building and shipping full-stack AI applications
 - 🌱 Constantly exploring new tools in the LangChain / Groq / FAISS ecosystem
 - ⚡ Actively practicing DSA & competitive programming for placements
