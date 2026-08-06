@@ -1,4 +1,4 @@
- <h1 align="center">Hi , I'm Vimal sahani</h1>
+ <h1 align="center">Hi , I'm Vimal Sahani</h1>
 <h3 align="center">SDE | Backend & Full-Stack Developer | AI/ML & GenAI Engineer</h3>
 
 <p align="center">
