@@ -63,19 +63,6 @@
 | 9 | ✅ **Node.js Task Manager** | Node.js, Express, Jest, Supertest | REST API with full test coverage, hiring assignment project |
  
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VimalN2005&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VimalN2005&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimalN2005&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 <p align="center"><i>⭐️ Open to SDE, Backend, Full-Stack, and AI/ML/GenAI opportunities — let's connect!</i></p>
