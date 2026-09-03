@@ -55,14 +55,22 @@
 |---|---|---|---|
 | 1 | 🧠 **RAG Document Assistant** | FastAPI, FAISS, LangChain, Groq LLaMA3 | Session-based RAG pipeline, deployed on Render + Vercel |
 | 2 | 📖 **AI Storyteller Machine** | LangChain, Groq, Streamlit | Generates stories with TTS narration & AI-generated images |
-| 3 | 💬 **Financial Data Chatbot** | Flask, Pandas, SEC EDGAR API | Conversational chatbot for analyzing 10-K filings (Microsoft, Tesla, Apple) with Excel/pandas data loading|          | 4 | 🛒 **Intelligent E-commerce Platform** | Django, FAISS, Groq, Node.js | Semantic product search + AI chatbot + real-time stock updates |
+| 3 | 💬 **Financial Data Chatbot** | Flask, Pandas, SEC EDGAR API | Conversational chatbot for analyzing 10-K filings (Microsoft, Tesla, Apple) with Excel/pandas data loading |
+| 4 | 🛒 **Intelligent E-commerce Platform** | Django, FAISS, Groq, Node.js | Semantic product search + AI chatbot + real-time stock updates |
 | 5 | 😃 **Face Emotion Recognition** | TensorFlow, CNN | Real-time 4-block CNN on FER-2013, 82% accuracy |
 | 6 | 📄 **AI Resume Analyzer** | Django, spaCy, TF-IDF | ATS-style resume scoring & keyword matching engine |
 | 7 | 🏠 **House Price Prediction** | XGBoost, Random Forest | Ensemble regression model, 88% R² accuracy |
 | 8 | 💊 **MediMind** | FastAPI, Groq | AI health assistant chatbot, built for DevNetwork hackathon |
 | 9 | ✅ **Node.js Task Manager** | Node.js, Express, Jest, Supertest | REST API with full test coverage, hiring assignment project |
- 
 
+---
 
+### 📊 Activity Overview
+
+<p align="center">
+  <img src="./assets/activity-overview.png" alt="Activity Overview" width="700" />
+</p>
+
+---
 
 <p align="center"><i>⭐️ Open to SDE, Backend, Full-Stack, and AI/ML/GenAI opportunities — let's connect!</i></p>
