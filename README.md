@@ -63,14 +63,4 @@
 | 8 | 💊 **MediMind** | FastAPI, Groq | AI health assistant chatbot, built for DevNetwork hackathon |
 | 9 | ✅ **Node.js Task Manager** | Node.js, Express, Jest, Supertest | REST API with full test coverage, hiring assignment project |
 
----
-
-### 📊 Activity Overview
-
-<p align="center">
-  <img src="./assets/activity-overview.png" alt="Activity Overview" width="700" />
-</p>
-
----
-
 <p align="center"><i>⭐️ Open to SDE, Backend, Full-Stack, and AI/ML/GenAI opportunities — let's connect!</i></p>
