@@ -4,7 +4,7 @@ B.Tech IT @ IIIT Bhopal ('27) | Contributor to Django, FastAPI, Hugging Face & L
 
 - 🛠 **Backend & Systems:** Python, Java, FastAPI, Django, PostgreSQL, Redis, Celery, Docker, Microservices
 - 🤖 **Applied AI/ML & GenAI:** PyTorch, Computer Vision (CNNs), RAG Pipelines, LangChain, FAISS, Hugging Face, Model Serving
-- 🌐 [LinkedIn](www.linkedin.com/in/vimal-sahani) • [Email](mailto:vimalsahani2005@gmail.com)
+- 🌐 [LinkedIn](linkedin.com/in/vimal-sahani) • [Email](mailto:vimalsahani2005@gmail.com)
 
 ---
 
@@ -69,8 +69,3 @@ B.Tech IT @ IIIT Bhopal ('27) | Contributor to Django, FastAPI, Hugging Face & L
 - **LLM Manipulation & Refusal Engine:** Dual-mode safety evaluation engine containerized via Docker with 20+ unit tests.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VimalN2005&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VimalN2005&theme=radical" alt="GitHub Streak" />
-</p>
