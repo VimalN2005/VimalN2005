@@ -12,17 +12,18 @@
 
 ---
 
-### 🚀 Verified Open-Source Contributions
-Engineering impact shipped to industry-standard frameworks used by millions of developers:
-
-| Organization | Contribution & Technical Scope | Status |
-| :--- | :--- | :---: |
-| **Django** | [PR #21811](https://github.com/django/django/pull/21811): Resolved Trac ticket #36049 across 4 core template filter files | ![Merged](https://img.shields.io/badge/Merged-2da44e?style=flat-square) |
-| **FastAPI** | [PR Reference](https://github.com/fastapi/fastapi/pulls): Resolved static-file sync I/O bottlenecks & JSON parsing pipelines | ![Merged](https://img.shields.io/badge/Merged-2da44e?style=flat-square) |
-| **Hugging Face** | [PR Reference](https://github.com/huggingface/transformers/pulls): Flash Attention fix for SigLIP2 vision-language models in `transformers` | ![Merged](https://img.shields.io/badge/Merged-2da44e?style=flat-square) |
-| **LangChain** | [PR Reference](https://github.com/langchain-ai/langchain/pulls): Fixed critical Responses API `KeyError` in DeepSeek connector | ![Merged](https://img.shields.io/badge/Merged-2da44e?style=flat-square) |
-| **AgentKit** | [PR #318](https://github.com/lamatic/AgentKit/pull/318): Static flow schema validator & Bug-to-Test-Case generator via LLM nodes | ![Merged](https://img.shields.io/badge/Merged-2da44e?style=flat-square) |
-| **Spotify / Luigi** | [PR #3450](https://github.com/spotify/luigi/pull/3450), [#3449](https://github.com/spotify/luigi/pull/3449): Resolved PrestoTarget `DatabaseError` propagation on Windows systems | ![Merged](https://img.shields.io/badge/Merged-2da44e?style=flat-square) |
+ 
+## 🌟 Featured Open Source Contributions
+| Organization / Repo | Description & Impact | PR / Issue | Status |
+| :--- | :--- | :---: | :---: |
+| **Django Core** (`django/django`) | Built `qualname()` utility in `django.utils.module_loading`, unifying path resolution across 4+ core submodules with 100% test coverage. | [#21875](https://github.com/django/django/pull/21875) | `🟣 Merged into Core` |
+| **Hugging Face** (`huggingface/transformers`) | Fixed class instantiation and runtime syntax execution bugs across SigLIP2 and VibeVoice architectures. | [#48197](https://github.com/huggingface/transformers/pull/48197), [#48489](https://github.com/huggingface/transformers/pull/48489) | `🟣 2x Merged` |
+| **Microsoft** (`microsoft/PyRIT`) | Implemented Garak Divergence scenario, custom `DivergenceScorer`, 42 seed dataset, and 12 unit tests for AI red-teaming. | [#2547](https://github.com/microsoft/PyRIT/pull/2547) | `🟢 Active / CLA Signed` |
+| **n8n** (`n8n-io/n8n`) | Added TLS Server Name (SNI) support for Microsoft SQL credentials & connection pooling with unit tests. | [#37683](https://github.com/n8n-io/n8n/pull/37683) | `🟢 Approved & Ready` |
+| **FastAPI** (`tiangolo/fastapi`) | Offloaded blocking synchronous I/O to threadpools reducing latency by 20-50%; resolved `Json[list[T]]` optional type parsing. | [#16213](https://github.com/fastapi/fastapi/discussions/16213) | `⚡ Performance Fix` |
+| **EvalPort** (`adhabnr-ux/evalport`) | Implemented full evaluation adapters for Parea AI and Humanloop LLM evaluation platforms. | [#19](https://github.com/adhabnr-ux/evalport/pull/19), [#26](https://github.com/adhabnr-ux/evalport/pull/26) | `🟣 Merged` |
+| **Lamatic** (`Lamatic/Lamatic`) | Implemented automated bug-to-test-case generator pipeline and Notion Assistant integration. | [#318](https://github.com/Lamatic/Lamatic/pull/318), [#387](https://github.com/Lamatic/Lamatic/pull/387) | `🟣 Merged / 🟢 Clean` |
+| **Continue** (`continuedev/continue`) | Refactored modular prompt-section tables and cleaned dead configuration constants. | [#2416](https://github.com/continuedev/continue/pull/2416) | `🟣 Merged` |
 
 ---
 
