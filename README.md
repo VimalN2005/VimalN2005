@@ -13,18 +13,18 @@
 ---
 
  
-## 🌟 Featured Open Source Contributions
-| Organization / Repo | Description & Impact | PR / Issue | Status |
+ ## 🏆 Tier-1 Open Source Contributions
+I actively architect, optimize, and maintain production features in leading open-source repositories:
+| Organization & Repo | Core Work & Technical Impact | PR / Issue | Status |
 | :--- | :--- | :---: | :---: |
-| **Django Core** (`django/django`) | Built `qualname()` utility in `django.utils.module_loading`, unifying path resolution across 4+ core submodules with 100% test coverage. | [#21875](https://github.com/django/django/pull/21875) | `🟣 Merged into Core` |
-| **Hugging Face** (`huggingface/transformers`) | Fixed class instantiation and runtime syntax execution bugs across SigLIP2 and VibeVoice architectures. | [#48197](https://github.com/huggingface/transformers/pull/48197), [#48489](https://github.com/huggingface/transformers/pull/48489) | `🟣 2x Merged` |
-| **Microsoft** (`microsoft/PyRIT`) | Implemented Garak Divergence scenario, custom `DivergenceScorer`, 42 seed dataset, and 12 unit tests for AI red-teaming. | [#2547](https://github.com/microsoft/PyRIT/pull/2547) | `🟢 Active / CLA Signed` |
-| **n8n** (`n8n-io/n8n`) | Added TLS Server Name (SNI) support for Microsoft SQL credentials & connection pooling with unit tests. | [#37683](https://github.com/n8n-io/n8n/pull/37683) | `🟢 Approved & Ready` |
-| **FastAPI** (`tiangolo/fastapi`) | Offloaded blocking synchronous I/O to threadpools reducing latency by 20-50%; resolved `Json[list[T]]` optional type parsing. | [#16213](https://github.com/fastapi/fastapi/discussions/16213) | `⚡ Performance Fix` |
-| **EvalPort** (`adhabnr-ux/evalport`) | Implemented full evaluation adapters for Parea AI and Humanloop LLM evaluation platforms. | [#19](https://github.com/adhabnr-ux/evalport/pull/19), [#26](https://github.com/adhabnr-ux/evalport/pull/26) | `🟣 Merged` |
-| **Lamatic** (`Lamatic/Lamatic`) | Implemented automated bug-to-test-case generator pipeline and Notion Assistant integration. | [#318](https://github.com/Lamatic/Lamatic/pull/318), [#387](https://github.com/Lamatic/Lamatic/pull/387) | `🟣 Merged / 🟢 Clean` |
-| **Continue** (`continuedev/continue`) | Refactored modular prompt-section tables and cleaned dead configuration constants. | [#2416](https://github.com/continuedev/continue/pull/2416) | `🟣 Merged` |
-
+| **Django Core**<br/>`django/django` | Engineered & merged reusable `qualname()` utility into `django.utils.module_loading`, removing duplicate dotted-path logic across 4+ submodules (`tasks`, `migrations`, `mail`). Collaborated with Django Fellows. | [#21875](https://github.com/django/django/pull/21875) | `🟣 Merged in Core` <br/>*(100% Coverage / 2K+ Tests)* |
+| **LangChain**<br/>`langchain-ai/open-swe` | Refactored modular prompt-section tables and cleaned deprecated constants in autonomous software engineering agent pipelines. | [#2416](https://github.com/langchain-ai/open-swe/pull/2416) | `🟣 Merged` |
+| **Hugging Face**<br/>`huggingface/transformers` | **2× Merged Contributor** — Resolved model instantiation class bugs in SigLIP2 architecture and fixed Python syntax compilation runtime errors in VibeVoice pipelines. | [#48197](https://github.com/huggingface/transformers/pull/48197)<br/>[#48489](https://github.com/huggingface/transformers/pull/48489) | `🟣 2x Merged` |
+| **Microsoft**<br/>`microsoft/PyRIT` | Implemented Garak Divergence red-teaming scenario, custom `DivergenceScorer`, 42 prompt seeds dataset, and 12 unit tests for GenAI risk benchmarking. | [#2547](https://github.com/microsoft/PyRIT/pull/2547) | `🟢 Active / CLA Signed` |
+| **n8n**<br/>`n8n-io/n8n` | Implemented TLS Server Name (SNI) support for Microsoft SQL credentials & connection pooling in TypeScript. | [#37683](https://github.com/n8n-io/n8n/pull/37683) | `🟢 Approved` <br/>*(5/5 Review Score)* |
+| **FastAPI**<br/>`tiangolo/fastapi` | Offloaded blocking synchronous I/O to async threadpools (**reduced benchmark latency by 20%–50%**); fixed recursive typing for `Json[list[T]] | None`. | [#16213](https://github.com/fastapi/fastapi/discussions/16213)<br/>[#16220](https://github.com/fastapi/fastapi/discussions/16220) | `⚡ Performance Fix` |
+| **Lamatic**<br/>`Lamatic/Lamatic` | Engineered automated bug-to-test-case synthesis engine merged into main; built Notion Assistant workflow integration. | [#318](https://github.com/Lamatic/Lamatic/pull/318)<br/>[#387](https://github.com/Lamatic/Lamatic/pull/387) | `🟣 Merged / 🟢 Clean` |
+| **EvalPort**<br/>`adhabnr-ux/evalport` | Developed production evaluation dataset adapters for Parea AI and Humanloop LLM evaluation platforms. | [#19](https://github.com/adhabnr-ux/evalport/pull/19)<br/>[#26](https://github.com/adhabnr-ux/evalport/pull/26) | `🟣 Merged (2 PRs)` |
 ---
 
 ### ⚡ Production Systems & Featured Projects
@@ -36,6 +36,20 @@
 | **E-Commerce Microservices** | Django REST, Redis, Sentence-Transformers | **30% latency reduction** with semantic search caching | [Code](https://github.com/VimalN2005) • [Demo](https://render.com) |
 | **LLM Guard & Refusal Engine**| Python, PyTest, Docker, Safety Evaluator | Dual-mode safety evaluation with 20+ unit tests | [Code](https://github.com/VimalN2005) • [Demo](https://render.com) |
 
+## 💻 Featured Independent Engineering Projects
+### 🪙 [Personal Finance Manager](https://github.com/VimalN2005/syfe-personal-finance-manager)
+*Enterprise Backend API built with **Java 21**, **Spring Boot 3.3.5**, and **Spring Security 6**.*
+* Session-based authentication, transaction CRUD, savings goals, and financial analytics engine.
+* **100% test pass rate (86/86 unit & integration tests)** with **>86% code coverage**.
+### 🛡️ [AI-Agent-Evaluation-Reliability-Platform](https://github.com/VimalN2005/AI-Agent-Evaluation-Reliability-Platform)
+*Production platform for benchmarking AI Agents and GenAI applications.*
+* Automated RAG retrieval quality measurement, hallucination detection, token cost tracking, and latency analytics.
+### 🌐 [Multi-Tenant SaaS API Platform](https://github.com/VimalN2005/saas-api-platform)
+*Scalable SaaS backend built with **Node.js**, **Express**, **PostgreSQL**, and **Docker**.*
+* Features tenant data isolation, Stripe subscription billing webhooks, and cryptographic API key management.
+### 🧠 [LLM-Manipulation-Refusal-Mechanisms](https://github.com/VimalN2005/LLM-Manipulation-Refusal-Mechanisms)
+*AI Safety & Alignment research tool built in **Python**.*
+* Detects psychological manipulation tactics in prompts and reformulates them into ethical requests.
 ---
 
 ### 🛠️ Technical Arsenal
