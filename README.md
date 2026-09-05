@@ -13,7 +13,7 @@
 ---
 
  
- ## 🏆 Tier-1 Open Source Contributions
+ ## 🏆 Open Source Contributions
 I actively architect, optimize, and maintain production features in leading open-source repositories:
 | Organization & Repo | Core Work & Technical Impact | PR / Issue | Status |
 | :--- | :--- | :---: | :---: |
