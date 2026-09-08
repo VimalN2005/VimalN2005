@@ -27,31 +27,6 @@ I actively architect, optimize, and maintain production features in leading open
 | **EvalPort**<br/>`adhabnr-ux/evalport` | Developed production evaluation dataset adapters for Parea AI and Humanloop LLM evaluation platforms. | [#19](https://github.com/adhabnr-ux/evalport/pull/19)<br/>[#26](https://github.com/adhabnr-ux/evalport/pull/26) | `🟣 Merged (2 PRs)` |
 ---
 
-### ⚡ Production Systems & Featured Projects
-
-| System | Architecture & Stack | Key Metrics / Benchmarks | Links |
-| :--- | :--- | :--- | :---: |
-| **RAG Document Assistant** | FastAPI, Groq LLaMA-3, FAISS, Docker | **<700ms latency**, 99%+ uptime session retrieval | [Code](https://github.com/VimalN2005) • [Demo](https://render.com) |
-| **Emotion Recognition API** | PyTorch, Custom CNN, FastAPI, Docker | **82% Accuracy** (FER-2013), **<150ms** inference | [Code](https://github.com/VimalN2005) • [Demo](https://render.com) |
-| **E-Commerce Microservices** | Django REST, Redis, Sentence-Transformers | **30% latency reduction** with semantic search caching | [Code](https://github.com/VimalN2005) • [Demo](https://render.com) |
-| **LLM Guard & Refusal Engine**| Python, PyTest, Docker, Safety Evaluator | Dual-mode safety evaluation with 20+ unit tests | [Code](https://github.com/VimalN2005) • [Demo](https://render.com) |
-
-## 💻 Featured Independent Engineering Projects
-### 🪙 [Personal Finance Manager](https://github.com/VimalN2005/syfe-personal-finance-manager)
-*Enterprise Backend API built with **Java 21**, **Spring Boot 3.3.5**, and **Spring Security 6**.*
-* Session-based authentication, transaction CRUD, savings goals, and financial analytics engine.
-* **100% test pass rate (86/86 unit & integration tests)** with **>86% code coverage**.
-### 🛡️ [AI-Agent-Evaluation-Reliability-Platform](https://github.com/VimalN2005/AI-Agent-Evaluation-Reliability-Platform)
-*Production platform for benchmarking AI Agents and GenAI applications.*
-* Automated RAG retrieval quality measurement, hallucination detection, token cost tracking, and latency analytics.
-### 🌐 [Multi-Tenant SaaS API Platform](https://github.com/VimalN2005/saas-api-platform)
-*Scalable SaaS backend built with **Node.js**, **Express**, **PostgreSQL**, and **Docker**.*
-* Features tenant data isolation, Stripe subscription billing webhooks, and cryptographic API key management.
-### 🧠 [LLM-Manipulation-Refusal-Mechanisms](https://github.com/VimalN2005/LLM-Manipulation-Refusal-Mechanisms)
-*AI Safety & Alignment research tool built in **Python**.*
-* Detects psychological manipulation tactics in prompts and reformulates them into ethical requests.
----
-
 ### 🛠️ Technical Arsenal
 
 <div align="left">
@@ -82,13 +57,4 @@ I actively architect, optimize, and maintain production features in leading open
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VimalN2005&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimalN2005&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VimalN2005&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
-</div>
+ 
