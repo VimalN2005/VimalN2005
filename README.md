@@ -27,34 +27,29 @@ I actively architect, optimize, and maintain production features in leading open
 | **EvalPort**<br/>`adhabnr-ux/evalport` | Developed production evaluation dataset adapters for Parea AI and Humanloop LLM evaluation platforms. | [#19](https://github.com/adhabnr-ux/evalport/pull/19)<br/>[#26](https://github.com/adhabnr-ux/evalport/pull/26) | `🟣 Merged (2 PRs)` |
 ---
 
-### 🛠️ Technical Arsenal
-
-<div align="left">
-
-- **Languages:** `Python` `Java` `C++` `JavaScript` `TypeScript` `SQL` `Bash`
-- **Backend & Systems:** `FastAPI` `Django` `Flask` `Node.js` `Express` `Redis (Caching & Queues)` `Celery` `Microservices` `RESTful APIs`
-- **AI / ML & GenAI:** `PyTorch` `Hugging Face (transformers)` `LangChain` `LlamaIndex` `FAISS` `RAG Architectures` `Sentence-Transformers` `Groq LPU`
-- **Databases & Storage:** `PostgreSQL` `MySQL` `Redis` `Vector Databases`
-- **DevOps, Cloud & Tools:** `Docker & Docker Compose` `Linux / Shell` `GitHub Actions (CI/CD)` `Postman` `Render` `Vercel`
-
-</div>
-
-<br>
+ ### 💻 My favorite tools and technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <!-- Languages -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,c,cs,bash,powershell&perline=9" alt="Programming Languages" />
+  </a>
+  <br/>
+  <!-- AI / ML / Data Science -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,pandas,numpy,scipy,jupyter&perline=9" alt="AI and ML" />
+  </a>
+  <br/>
+  <!-- Backend & Databases -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,fastapi,spring,nodejs,express,graphql,postgres,mysql,mongodb,redis&perline=9" alt="Backend & DB" />
+  </a>
+  <br/>
+  <!-- DevOps, Cloud & Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,gitlab,jenkins,aws,gcp,azure&perline=9" alt="DevOps & Cloud" />
+  </a>
 </p>
-
 ---
 
  
