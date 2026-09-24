@@ -57,21 +57,3 @@
 </div>
 
 ---
-
-## 🏆 Open Source Contributions
-
-I actively architect, optimize, and maintain production features in leading open-source repositories:
-
-| Organization & Repo | Core Work & Technical Impact | PR / Issue | Status |
-| :--- | :--- | :---: | :---: |
-| **Celery Core**<br/>`celery/celery` | Designed serializer-agnostic binary storage (`sa.LargeBinary`) and automated database migration resolving critical task parent-child hierarchy loss. | [#10606](https://github.com/celery/celery/pull/10606) | `🟣 Merged in Core` |
-| **Django Core**<br/>`django/django` | Engineered and merged reusable `qualname()` utility into `django.utils.module_loading`, removing duplicate dotted-path logic across 4+ submodules (`tasks`, `migrations`, `mail`). Collaborated with Django Fellows. | [#21875](https://github.com/django/django/pull/21875) | `🟣 Merged in Core`<br/>*(100% Coverage / 2K+ Tests)* |
-| **Hugging Face**<br/>`huggingface/transformers` | Resolved model instantiation class bugs in SigLIP2 architecture and fixed Python syntax compilation runtime errors in VibeVoice pipelines. | [#48197](https://github.com/huggingface/transformers/pull/48197)<br/>[#48489](https://github.com/huggingface/transformers/pull/48489) | `🟣 2× Merged` |
-| **Microsoft**<br/>`microsoft/PyRIT` | Implemented Garak Divergence red-teaming scenario, custom `DivergenceScorer`, 42 prompt seeds dataset, and 12 unit tests for GenAI risk benchmarking. | [#2547](https://github.com/microsoft/PyRIT/pull/2547) | `🟢 Active / CLA Signed` |
-| **n8n**<br/>`n8n-io/n8n` | Implemented TLS Server Name Indication (SNI) support for Microsoft SQL credentials and connection pooling in TypeScript. | [#37683](https://github.com/n8n-io/n8n/pull/37683) | `🟢 Approved`<br/>*(5/5 Review Score)* |
-| **FastAPI**<br/>`tiangolo/fastapi` | Offloaded blocking synchronous I/O to async threadpools (reduced benchmark latency by 20%–50%); fixed recursive typing for `Json[list[T]] \| None`. | [#16213](https://github.com/fastapi/fastapi/discussions/16213)<br/>[#16220](https://github.com/fastapi/fastapi/discussions/16220) | `⚡ Performance Fix` |
-| **Lamatic**<br/>`Lamatic/Lamatic` | Engineered automated bug-to-test-case synthesis engine merged into main; built Notion Assistant workflow integration. | [#318](https://github.com/Lamatic/Lamatic/pull/318)<br/>[#387](https://github.com/Lamatic/Lamatic/pull/387) | `🟣 Merged / 🟢 Clean` |
-| **EvalPort**<br/>`adhabnr-ux/evalport` | Developed production evaluation dataset adapters for Parea AI and Humanloop LLM evaluation platforms (+2,000 LOC). | [#19](https://github.com/adhabnr-ux/evalport/pull/19)<br/>[#26](https://github.com/adhabnr-ux/evalport/pull/26) | `🟣 Merged (2 PRs)` |
-| **LangChain**<br/>`langchain-ai/open-swe` | Refactored modular prompt-section tables and cleaned deprecated constants in autonomous software engineering agent pipelines. | [#2416](https://github.com/langchain-ai/open-swe/pull/2416) | `🟣 Merged` |
-
----
